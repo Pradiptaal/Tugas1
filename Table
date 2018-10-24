@@ -1,0 +1,53 @@
+<html>
+<head>
+<title>table</title>
+<body>
+	<table border="1">
+
+	<tr>
+	<td>Nama</td>
+	<td>Kelas</td>
+	<td>Npm</td>
+	</tr>
+
+	<tr>
+	<td>Linus</td>
+	<td>4KA20</td>
+	<td>13115845</td>
+	</tr>
+
+	<tr>
+	<td>Pradipta</td>
+	<td>4KA20</td>
+	<td>13115846</td>
+	</tr>
+
+    <tr>
+	<td>Audi</td>
+	<td>4KA20</td>
+	<td>13115847</td>
+	</tr>
+	
+	<tr>
+	<td>Laksana</td>
+	<td>4KA20</td>
+	<td>13115848</td>
+	</tr>
+	</table>
+
+	<br>
+
+	<form>
+		Nama:<br>
+		<input type="text" name="nama"><br>
+		Kelas:<br>
+		<input type="integer" name="kelas"><br>
+		NPM:<br>
+		<input type="integer" name="NPM"><br>
+		<input type="submit" value="submit"><br>
+		</form>
+
+		
+</body>
+</head>
+</html>
